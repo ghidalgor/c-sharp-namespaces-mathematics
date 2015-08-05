@@ -1,0 +1,6 @@
+D:\visual_studio\laboratorio\C_SHARP\namespaces\matematicas\matematicas\bin\Debug\matematicas.exe.config
+D:\visual_studio\laboratorio\C_SHARP\namespaces\matematicas\matematicas\bin\Debug\matematicas.exe
+D:\visual_studio\laboratorio\C_SHARP\namespaces\matematicas\matematicas\bin\Debug\matematicas.pdb
+D:\visual_studio\laboratorio\C_SHARP\namespaces\matematicas\matematicas\obj\Debug\matematicas.exe
+D:\visual_studio\laboratorio\C_SHARP\namespaces\matematicas\matematicas\obj\Debug\matematicas.pdb
+D:\visual_studio\laboratorio\C_SHARP\namespaces\matematicas\matematicas\obj\Debug\matematicas.csprojResolveAssemblyReference.cache
